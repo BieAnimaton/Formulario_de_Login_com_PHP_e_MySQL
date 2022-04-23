@@ -1,6 +1,6 @@
 # Formulario_de_Login_com_PHP_e_MySQL
 
-<div style={margin: auto;}>
+<div style="margin: 0 auto;">
 	<img sr="https://user-images.githubusercontent.com/52220244/164836241-3e3ad0eb-510f-45b6-b8cf-53fb04121842.JPG">
 
 	<img sr="https://user-images.githubusercontent.com/52220244/164836242-fe8237bd-6b2f-4e4a-8f0c-27600b7a9f87.JPG">
